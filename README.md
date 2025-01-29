@@ -15,7 +15,8 @@ https://e-commerce-website-kappa-snowy.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+![image](https://github.com/user-attachments/assets/804b1071-8a8e-4496-9117-ce3ed36a1673)
+
 
 
 
